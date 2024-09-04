@@ -1,2 +1,2 @@
-http://example.com/2024/09/04/hexo%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97/
-http://example.com/
+https://github.com/netman1994/2024/09/04/hexo%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97/
+https://github.com/netman1994

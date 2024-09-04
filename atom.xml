@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Hexo</title>
+  <title>netman1994</title>
   
   
-  <link href="http://example.com/atom.xml" rel="self"/>
+  <link href="https://github.com/netman1994/atom.xml" rel="self"/>
   
-  <link href="http://example.com/"/>
+  <link href="https://github.com/netman1994/"/>
   <updated>2024-09-04T15:29:58.736Z</updated>
-  <id>http://example.com/</id>
+  <id>https://github.com/netman1994/</id>
   
   <author>
-    <name>John Doe</name>
+    <name>netman1994</name>
     
   </author>
   
@@ -18,8 +18,8 @@
   
   <entry>
     <title>hexo使用指南</title>
-    <link href="http://example.com/2024/09/04/hexo%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97/"/>
-    <id>http://example.com/2024/09/04/hexo%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97/</id>
+    <link href="https://github.com/netman1994/2024/09/04/hexo%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97/"/>
+    <id>https://github.com/netman1994/2024/09/04/hexo%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97/</id>
     <published>2024-09-04T15:21:36.000Z</published>
     <updated>2024-09-04T15:29:58.736Z</updated>
     
