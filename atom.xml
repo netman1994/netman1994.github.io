@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Hexo</title>
+  
+  
+  <link href="http://example.com/atom.xml" rel="self"/>
+  
+  <link href="http://example.com/"/>
+  <updated>2024-09-04T15:29:58.736Z</updated>
+  <id>http://example.com/</id>
+  
+  <author>
+    <name>John Doe</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>hexo使用指南</title>
+    <link href="http://example.com/2024/09/04/hexo%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97/"/>
+    <id>http://example.com/2024/09/04/hexo%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97/</id>
+    <published>2024-09-04T15:21:36.000Z</published>
+    <updated>2024-09-04T15:29:58.736Z</updated>
+    
+    <content type="html"><![CDATA[<h4 id="坑一"><a href="#坑一" class="headerlink" title="坑一"></a>坑一</h4><p><code>hexo g</code>错误，can not foud hexo-util<br>解决办法：<code>cnpm install hexo-util --save</code></p><h4 id="坑二"><a href="#坑二" class="headerlink" title="坑二"></a>坑二</h4><p>访问<code>http://localhost:4000</code>显示如下<code>extends includes/layout.pug block content include ./includes/mixins/post-ui.pug #recent-posts.recent-posts +postUI include includes/pagination.pug</code><br>解决办法：<code>cnpm install --save hexo-renderer-jade hexo-generator-feed hexo-generator-sitemap hexo-browsersync hexo-generator-archive</code></p><h4 id="坑三"><a href="#坑三" class="headerlink" title="坑三"></a>坑三</h4><p><code>hexo d</code>错误，ERROR Deployer not found: git<br>解决办法：<code>cnpm install hexo-deployer-git --save</code></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h4 id=&quot;坑一&quot;&gt;&lt;a href=&quot;#坑一&quot; class=&quot;headerlink&quot; title=&quot;坑一&quot;&gt;&lt;/a&gt;坑一&lt;/h4&gt;&lt;p&gt;&lt;code&gt;hexo g&lt;/code&gt;错误，can not foud hexo-util&lt;br&gt;解决办法：&lt;code&gt;cnpm instal</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
